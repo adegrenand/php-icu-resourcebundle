@@ -1,5 +1,5 @@
 {
-    "name": "adoy/ICU/ResourceBundle",
+    "name": "adoy/icu-resourcebundle",
     "description": "PHP Implementation of the ICU Resource Bundle",
     "license": "MIT",
     "authors": [
